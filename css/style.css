@@ -1,0 +1,51 @@
+.sidepanel { 
+  background: url(../img/kais1.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 100;
+  font-size: 30px;
+  color: white;
+}
+
+.nametext{
+  font-size: 50px;
+	margin-top:40vh;
+  text-decoration: underline;
+}
+
+.headertext{
+  font-family: 'Merriweather', serif;
+  color: black;
+  font-size: 20px;
+  line-height: 175%
+}
+
+.sectioncontainer{
+  text-align: left;
+  max-width: 30vw;
+}
+
+.sectiontext {
+  max-width: 35vw;
+}
+
+.small-name-num{
+  font-family: 'Merriweather', serif;
+  color: black;
+  font-size: 12px;
+  margin-top: 1vh;
+}
+
+.num{
+  margin-top: 7.5vh;
+}
+
+/*.sideimage
+{
+	height:100vh;
+	width: 100%;
+}*/

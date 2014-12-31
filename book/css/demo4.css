@@ -64,7 +64,7 @@
 .bb-custom-firstpage {
 	text-align: center;
 	padding-top: 9%;
-	width: 50%;
+	width: 43%;
 	float: left;
 	height: 100%;
 	background-image: url('../images/kais1.jpg');
@@ -147,13 +147,16 @@
   color: white;
 }
 
+
 .headertext{
-	max-width: 42vw;
+	max-width: 41.4vw;
  	font-family: 'Merriweather', serif;
   	color: black;
   	text-align: center;
   	font-size: 20px !important;
-  	line-height: 175%
+  	 padding-top: 7vh !important;
+  	 padding-bottom: 0 !important;
+  	line-height: 175%;
 }
 
 
@@ -166,10 +169,12 @@
   color: black;
   font-size: 12px !important;
   margin-top: 1vh !important;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
 }
 
 .num{
-  margin-top: 7.5vh;
+  margin-top: 8vh !important;
 }
 
 /*.sideimage
